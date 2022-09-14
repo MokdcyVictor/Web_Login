@@ -1,5 +1,7 @@
 # Web_Login
 
+<img src="Login.png" alt="exemplo imagem">
+
 ## 📄 Goal:
 
 Creating a simple login screen for better learning html and css
